@@ -36,11 +36,16 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 ===============================================================
 
 [+] Url: http://10.112.152.184/
+
 [+] Method: GET
+
 [+] Threads: 10
 [+] Wordlist: /usr/share/wordlists/dirb/common.txt
+
 [+] Negative Status codes: 404
+
 [+] User Agent: gobuster/3.8.2
+
 [+] Timeout: 10s
 
 ===============================================================
