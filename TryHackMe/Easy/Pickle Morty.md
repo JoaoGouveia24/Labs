@@ -2,6 +2,7 @@
 
 
 **Recon**
+
 First we are using a simple command to map the IP that we have:
 
     sudo nmap -p- -sS -sV 10.112.152.184
