@@ -44,14 +44,14 @@ Starting gobuster in directory enumeration mode
 
 ===============================================================
 
-.hta (Status: 403) [Size: 279]
-.htpasswd (Status: 403) [Size: 279]
-.htaccess (Status: 403) [Size: 279]
-assets (Status: 301) [Size: 317] [--> http://10.112.152.184/assets/]
-index.html (Status: 200) [Size: 1062]
-robots.txt (Status: 200) [Size: 17]
-server-status (Status: 403) [Size: 279]
-Progress: 4613 / 4613 (100.00%)
+- .hta (Status: 403) [Size: 279]
+- .htpasswd (Status: 403) [Size: 279]
+- .htaccess (Status: 403) [Size: 279]
+- assets (Status: 301) [Size: 317] [--> http://10.112.152.184/assets/]
+- index.html (Status: 200) [Size: 1062]
+- robots.txt (Status: 200) [Size: 17]
+- server-status (Status: 403) [Size: 279]
+- Progress: 4613 / 4613 (100.00%)
 
 ===============================================================
 
