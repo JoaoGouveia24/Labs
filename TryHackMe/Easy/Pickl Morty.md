@@ -14,14 +14,16 @@ PORT STATE SERVICE VERSION
 
 80/tcp open http Apache httpd 2.4.41 ((Ubuntu))
 
+
   
 With this we know that the ip has a website hosted in the port 80, lets check it...
  
- When inspecting the website we can see inside a "div" a word... (*R1ckRul3s*)... must be a username somehow, lets keep going...
+When inspecting the website we can see inside a "div" a word... (*R1ckRul3s*)... must be a username somehow, lets keep going...
 
 After cheeking the entire website, its time to see if it has different paths, for this we are using a tool called "Gobuster"
 
     gobuster dir -u http://10.112.152.184/ -w /usr/share/wordlists/dirb/common.txt
+    
 
 Result:
   
