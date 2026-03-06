@@ -6,9 +6,12 @@ First we are using a simple command to map the IP that we have:
 
     sudo nmap -p- -sS -sV 10.112.152.184
 
-**Result**:
+Result:
+
 PORT STATE SERVICE VERSION
+
 22/tcp open ssh OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)
+
 80/tcp open http Apache httpd 2.4.41 ((Ubuntu))
 
   
