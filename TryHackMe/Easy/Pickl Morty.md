@@ -40,6 +40,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 [+] Method: GET
 
 [+] Threads: 10
+
 [+] Wordlist: /usr/share/wordlists/dirb/common.txt
 
 [+] Negative Status codes: 404
@@ -87,7 +88,7 @@ In the end we  have a new path http://10.112.152.184/Portal.php, we are sent to 
 
 *Tadaaa! We are in!!!*
 
- In this page we as we can see we have an input field called "Console"
+In this page we as we can see we have an input field called "Console"
 By chance i tried the command `ls`
 
 
