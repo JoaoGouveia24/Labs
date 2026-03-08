@@ -82,11 +82,11 @@ It gives us the message "php files not allowed"
 
   
 
-we can change the extension to bypass that... lets change it to .php5
+We can change the extension to bypass that... lets change it to .php5
 
   
 
-it worked
+It worked!!!
 
   
   
@@ -116,11 +116,7 @@ run:
   
   
 
-with that we found our user.txt
-
-  
-
-with the cat command we can see what it is inside
+wWith that we found our user.txt, with the cat command we can see what it is inside
 
   
 
@@ -129,7 +125,8 @@ user.txt :
 > THM{y0u_g0t_a_sh3ll}
 
   
-  
+
+
 
 ## Task 4 Privilege escalation
 
